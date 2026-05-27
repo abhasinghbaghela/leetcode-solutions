@@ -4,4 +4,4 @@ My LeetCode problem solutions that I have solved till now in C++ with explanatio
 Solved problems in C++.
 ## Profiles
 - LeetCode: https://leetcode.com/Abhasinghbaghela/
-- LinkedIn: https://linkedin.com/in/Abhasingh/
+- LinkedIn: https://linkedin.com/in/abha-singh-465249381/
