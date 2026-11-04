@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-11-04T16:13:35.936Z",
+  "updatedAt": "2026-11-04T16:13:43.174Z",
   "problems": [
     {
       "frontendId": "49",
@@ -264,6 +264,26 @@
           "path": "leetcode-solutions/0673-number-of-longest-increasing-subsequence/0673-number-of-longest-increasing-subsequence.cpp",
           "sha": "ac397772793beab3b3c2895ec52cffae4575b1f3",
           "lastSyncedAt": "2026-11-04T16:10:40.245Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "714",
+      "title": "Best Time to Buy and Sell Stock with Transaction Fee",
+      "slug": "best-time-to-buy-and-sell-stock-with-transaction-fee",
+      "problemName": "0714-best-time-to-buy-and-sell-stock-with-transaction-fee",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-transaction-fee/",
+      "folderPath": "leetcode-solutions/0714-best-time-to-buy-and-sell-stock-with-transaction-fee/",
+      "readmePath": "leetcode-solutions/0714-best-time-to-buy-and-sell-stock-with-transaction-fee/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0714-best-time-to-buy-and-sell-stock-with-transaction-fee.cpp",
+          "path": "leetcode-solutions/0714-best-time-to-buy-and-sell-stock-with-transaction-fee/0714-best-time-to-buy-and-sell-stock-with-transaction-fee.cpp",
+          "sha": "95bd2f23dba4d5c22f3048ed260a529db8654225",
+          "lastSyncedAt": "2026-11-04T16:13:43.174Z"
         }
       ]
     },
