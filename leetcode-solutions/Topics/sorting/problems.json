@@ -5,7 +5,7 @@
     "name": "Sorting",
     "tagId": "61049"
   },
-  "updatedAt": "2026-11-04T16:09:24.228Z",
+  "updatedAt": "2026-11-04T16:10:24.789Z",
   "problems": [
     {
       "frontendId": "49",
@@ -64,6 +64,26 @@
           "path": "leetcode-solutions/0462-minimum-moves-to-equal-array-elements-ii/0462-minimum-moves-to-equal-array-elements-ii.cpp",
           "sha": "737d212f09556d0f01ac5843087363afb820dd61",
           "lastSyncedAt": "2026-11-04T16:06:24.383Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1048",
+      "title": "Longest String Chain",
+      "slug": "longest-string-chain",
+      "problemName": "1048-longest-string-chain",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/longest-string-chain/",
+      "folderPath": "leetcode-solutions/1048-longest-string-chain/",
+      "readmePath": "leetcode-solutions/1048-longest-string-chain/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "1048-longest-string-chain.cpp",
+          "path": "leetcode-solutions/1048-longest-string-chain/1048-longest-string-chain.cpp",
+          "sha": "7d43e7520c0f82b91ea27e8aac824dd127f642e7",
+          "lastSyncedAt": "2026-11-04T16:10:24.789Z"
         }
       ]
     }
