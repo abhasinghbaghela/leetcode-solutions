@@ -5,7 +5,7 @@
     "name": "Dynamic Programming",
     "tagId": "13"
   },
-  "updatedAt": "2026-11-04T16:11:03.577Z",
+  "updatedAt": "2026-11-04T16:11:14.407Z",
   "problems": [
     {
       "frontendId": "121",
@@ -64,6 +64,26 @@
           "path": "leetcode-solutions/0368-largest-divisible-subset/0368-largest-divisible-subset.cpp",
           "sha": "222e8bf49de68c9141a55cc3a7e0fef2aba823ce",
           "lastSyncedAt": "2026-11-04T16:11:03.577Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "583",
+      "title": "Delete Operation for Two Strings",
+      "slug": "delete-operation-for-two-strings",
+      "problemName": "0583-delete-operation-for-two-strings",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/delete-operation-for-two-strings/",
+      "folderPath": "leetcode-solutions/0583-delete-operation-for-two-strings/",
+      "readmePath": "leetcode-solutions/0583-delete-operation-for-two-strings/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0583-delete-operation-for-two-strings.cpp",
+          "path": "leetcode-solutions/0583-delete-operation-for-two-strings/0583-delete-operation-for-two-strings.cpp",
+          "sha": "0f71b0375bbae2eeb2b8a57cd9b055f5f180b800",
+          "lastSyncedAt": "2026-11-04T16:11:14.407Z"
         }
       ]
     },
