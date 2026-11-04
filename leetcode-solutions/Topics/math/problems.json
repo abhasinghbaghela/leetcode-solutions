@@ -1,0 +1,31 @@
+{
+  "version": 1,
+  "topic": {
+    "slug": "math",
+    "name": "Math",
+    "tagId": "8"
+  },
+  "updatedAt": "2026-11-04T16:06:24.383Z",
+  "problems": [
+    {
+      "frontendId": "462",
+      "title": "Minimum Moves to Equal Array Elements II",
+      "slug": "minimum-moves-to-equal-array-elements-ii",
+      "problemName": "0462-minimum-moves-to-equal-array-elements-ii",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/minimum-moves-to-equal-array-elements-ii/",
+      "folderPath": "leetcode-solutions/0462-minimum-moves-to-equal-array-elements-ii/",
+      "readmePath": "leetcode-solutions/0462-minimum-moves-to-equal-array-elements-ii/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0462-minimum-moves-to-equal-array-elements-ii.cpp",
+          "path": "leetcode-solutions/0462-minimum-moves-to-equal-array-elements-ii/0462-minimum-moves-to-equal-array-elements-ii.cpp",
+          "sha": "737d212f09556d0f01ac5843087363afb820dd61",
+          "lastSyncedAt": "2026-11-04T16:06:24.383Z"
+        }
+      ]
+    }
+  ]
+}
