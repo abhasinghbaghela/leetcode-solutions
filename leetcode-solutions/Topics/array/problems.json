@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-11-04T16:10:24.789Z",
+  "updatedAt": "2026-11-04T16:10:40.245Z",
   "problems": [
     {
       "frontendId": "49",
@@ -104,6 +104,26 @@
           "path": "leetcode-solutions/0462-minimum-moves-to-equal-array-elements-ii/0462-minimum-moves-to-equal-array-elements-ii.cpp",
           "sha": "737d212f09556d0f01ac5843087363afb820dd61",
           "lastSyncedAt": "2026-11-04T16:06:24.383Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "673",
+      "title": "Number of Longest Increasing Subsequence",
+      "slug": "number-of-longest-increasing-subsequence",
+      "problemName": "0673-number-of-longest-increasing-subsequence",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/number-of-longest-increasing-subsequence/",
+      "folderPath": "leetcode-solutions/0673-number-of-longest-increasing-subsequence/",
+      "readmePath": "leetcode-solutions/0673-number-of-longest-increasing-subsequence/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0673-number-of-longest-increasing-subsequence.cpp",
+          "path": "leetcode-solutions/0673-number-of-longest-increasing-subsequence/0673-number-of-longest-increasing-subsequence.cpp",
+          "sha": "ac397772793beab3b3c2895ec52cffae4575b1f3",
+          "lastSyncedAt": "2026-11-04T16:10:40.245Z"
         }
       ]
     },
