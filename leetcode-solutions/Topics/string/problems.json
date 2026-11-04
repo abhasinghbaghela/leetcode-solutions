@@ -5,8 +5,28 @@
     "name": "String",
     "tagId": "10"
   },
-  "updatedAt": "2026-11-04T16:07:42.828Z",
+  "updatedAt": "2026-11-04T16:09:06.056Z",
   "problems": [
+    {
+      "frontendId": "567",
+      "title": "Permutation in String",
+      "slug": "permutation-in-string",
+      "problemName": "0567-permutation-in-string",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/permutation-in-string/",
+      "folderPath": "leetcode-solutions/0567-permutation-in-string/",
+      "readmePath": "leetcode-solutions/0567-permutation-in-string/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0567-permutation-in-string.cpp",
+          "path": "leetcode-solutions/0567-permutation-in-string/0567-permutation-in-string.cpp",
+          "sha": "5c012d44539e4fe08c195d56936abd084bb8147b",
+          "lastSyncedAt": "2026-11-04T16:09:06.056Z"
+        }
+      ]
+    },
     {
       "frontendId": "2409",
       "title": "Count Days Spent Together",
