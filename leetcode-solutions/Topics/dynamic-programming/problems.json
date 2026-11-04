@@ -5,7 +5,7 @@
     "name": "Dynamic Programming",
     "tagId": "13"
   },
-  "updatedAt": "2026-11-04T16:12:17.496Z",
+  "updatedAt": "2026-11-04T16:12:39.562Z",
   "problems": [
     {
       "frontendId": "121",
@@ -84,6 +84,26 @@
           "path": "leetcode-solutions/0312-burst-balloons/0312-burst-balloons.cpp",
           "sha": "29ec186e64937ddf818e7d1a4c6d1ae3d036583d",
           "lastSyncedAt": "2026-11-04T16:10:10.133Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "322",
+      "title": "Coin Change",
+      "slug": "coin-change",
+      "problemName": "0322-coin-change",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/coin-change/",
+      "folderPath": "leetcode-solutions/0322-coin-change/",
+      "readmePath": "leetcode-solutions/0322-coin-change/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0322-coin-change.cpp",
+          "path": "leetcode-solutions/0322-coin-change/0322-coin-change.cpp",
+          "sha": "c12a9925f25c7f4cab1b31ddff2b56b55c41f61c",
+          "lastSyncedAt": "2026-11-04T16:12:39.562Z"
         }
       ]
     },
