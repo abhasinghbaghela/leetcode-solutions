@@ -5,7 +5,7 @@
     "name": "Longest Common Subsequence",
     "tagId": "122080"
   },
-  "updatedAt": "2026-11-04T16:11:14.407Z",
+  "updatedAt": "2026-11-04T16:11:51.899Z",
   "problems": [
     {
       "frontendId": "583",
@@ -24,6 +24,26 @@
           "path": "leetcode-solutions/0583-delete-operation-for-two-strings/0583-delete-operation-for-two-strings.cpp",
           "sha": "0f71b0375bbae2eeb2b8a57cd9b055f5f180b800",
           "lastSyncedAt": "2026-11-04T16:11:14.407Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1143",
+      "title": "Longest Common Subsequence",
+      "slug": "longest-common-subsequence",
+      "problemName": "1143-longest-common-subsequence",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/longest-common-subsequence/",
+      "folderPath": "leetcode-solutions/1143-longest-common-subsequence/",
+      "readmePath": "leetcode-solutions/1143-longest-common-subsequence/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "1143-longest-common-subsequence.cpp",
+          "path": "leetcode-solutions/1143-longest-common-subsequence/1143-longest-common-subsequence.cpp",
+          "sha": "52b45ed03d4750e3009d02c9f50cb7f37d397248",
+          "lastSyncedAt": "2026-11-04T16:11:51.899Z"
         }
       ]
     }
