@@ -5,7 +5,7 @@
     "name": "Heap (Priority Queue)",
     "tagId": "61050"
   },
-  "updatedAt": "2026-11-04T16:07:51.923Z",
+  "updatedAt": "2026-11-04T16:08:14.975Z",
   "problems": [
     {
       "frontendId": "23",
@@ -24,6 +24,26 @@
           "path": "leetcode-solutions/0023-merge-k-sorted-lists/0023-merge-k-sorted-lists.cpp",
           "sha": "46398ef3089f84e9ab77eb43ca1b327a17d0a9e7",
           "lastSyncedAt": "2026-11-04T16:07:51.923Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "703",
+      "title": "Kth Largest Element in a Stream",
+      "slug": "kth-largest-element-in-a-stream",
+      "problemName": "0703-kth-largest-element-in-a-stream",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/kth-largest-element-in-a-stream/",
+      "folderPath": "leetcode-solutions/0703-kth-largest-element-in-a-stream/",
+      "readmePath": "leetcode-solutions/0703-kth-largest-element-in-a-stream/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0703-kth-largest-element-in-a-stream.cpp",
+          "path": "leetcode-solutions/0703-kth-largest-element-in-a-stream/0703-kth-largest-element-in-a-stream.cpp",
+          "sha": "3738230bd06d0b88ef4bc67dc9948fa39c54c387",
+          "lastSyncedAt": "2026-11-04T16:08:14.975Z"
         }
       ]
     }
