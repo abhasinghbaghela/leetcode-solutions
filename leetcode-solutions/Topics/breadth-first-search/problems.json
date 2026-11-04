@@ -5,8 +5,28 @@
     "name": "Breadth-First Search",
     "tagId": "22"
   },
-  "updatedAt": "2026-11-04T16:06:58.677Z",
+  "updatedAt": "2026-11-04T16:12:39.562Z",
   "problems": [
+    {
+      "frontendId": "322",
+      "title": "Coin Change",
+      "slug": "coin-change",
+      "problemName": "0322-coin-change",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/coin-change/",
+      "folderPath": "leetcode-solutions/0322-coin-change/",
+      "readmePath": "leetcode-solutions/0322-coin-change/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0322-coin-change.cpp",
+          "path": "leetcode-solutions/0322-coin-change/0322-coin-change.cpp",
+          "sha": "c12a9925f25c7f4cab1b31ddff2b56b55c41f61c",
+          "lastSyncedAt": "2026-11-04T16:12:39.562Z"
+        }
+      ]
+    },
     {
       "frontendId": "3619",
       "title": "Count Islands With Total Value Divisible by K",
