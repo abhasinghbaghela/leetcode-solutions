@@ -5,7 +5,7 @@
     "name": "Dynamic Programming",
     "tagId": "13"
   },
-  "updatedAt": "2026-11-04T16:10:17.125Z",
+  "updatedAt": "2026-11-04T16:10:24.789Z",
   "problems": [
     {
       "frontendId": "121",
@@ -44,6 +44,26 @@
           "path": "leetcode-solutions/0312-burst-balloons/0312-burst-balloons.cpp",
           "sha": "29ec186e64937ddf818e7d1a4c6d1ae3d036583d",
           "lastSyncedAt": "2026-11-04T16:10:10.133Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1048",
+      "title": "Longest String Chain",
+      "slug": "longest-string-chain",
+      "problemName": "1048-longest-string-chain",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/longest-string-chain/",
+      "folderPath": "leetcode-solutions/1048-longest-string-chain/",
+      "readmePath": "leetcode-solutions/1048-longest-string-chain/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "1048-longest-string-chain.cpp",
+          "path": "leetcode-solutions/1048-longest-string-chain/1048-longest-string-chain.cpp",
+          "sha": "7d43e7520c0f82b91ea27e8aac824dd127f642e7",
+          "lastSyncedAt": "2026-11-04T16:10:24.789Z"
         }
       ]
     },
