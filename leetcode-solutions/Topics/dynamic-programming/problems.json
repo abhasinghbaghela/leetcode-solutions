@@ -5,7 +5,7 @@
     "name": "Dynamic Programming",
     "tagId": "13"
   },
-  "updatedAt": "2026-11-04T16:11:31.257Z",
+  "updatedAt": "2026-11-04T16:11:51.899Z",
   "problems": [
     {
       "frontendId": "121",
@@ -164,6 +164,26 @@
           "path": "leetcode-solutions/1048-longest-string-chain/1048-longest-string-chain.cpp",
           "sha": "7d43e7520c0f82b91ea27e8aac824dd127f642e7",
           "lastSyncedAt": "2026-11-04T16:10:24.789Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1143",
+      "title": "Longest Common Subsequence",
+      "slug": "longest-common-subsequence",
+      "problemName": "1143-longest-common-subsequence",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/longest-common-subsequence/",
+      "folderPath": "leetcode-solutions/1143-longest-common-subsequence/",
+      "readmePath": "leetcode-solutions/1143-longest-common-subsequence/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "1143-longest-common-subsequence.cpp",
+          "path": "leetcode-solutions/1143-longest-common-subsequence/1143-longest-common-subsequence.cpp",
+          "sha": "52b45ed03d4750e3009d02c9f50cb7f37d397248",
+          "lastSyncedAt": "2026-11-04T16:11:51.899Z"
         }
       ]
     },
