@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-11-04T16:09:41.442Z",
+  "updatedAt": "2026-11-04T16:10:10.133Z",
   "problems": [
     {
       "frontendId": "49",
@@ -64,6 +64,26 @@
           "path": "leetcode-solutions/0215-kth-largest-element-in-an-array/0215-kth-largest-element-in-an-array.cpp",
           "sha": "e43e56876bc1ce2abed724734ceabe4bd582993a",
           "lastSyncedAt": "2026-11-04T16:08:38.048Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "312",
+      "title": "Burst Balloons",
+      "slug": "burst-balloons",
+      "problemName": "0312-burst-balloons",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/burst-balloons/",
+      "folderPath": "leetcode-solutions/0312-burst-balloons/",
+      "readmePath": "leetcode-solutions/0312-burst-balloons/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0312-burst-balloons.cpp",
+          "path": "leetcode-solutions/0312-burst-balloons/0312-burst-balloons.cpp",
+          "sha": "29ec186e64937ddf818e7d1a4c6d1ae3d036583d",
+          "lastSyncedAt": "2026-11-04T16:10:10.133Z"
         }
       ]
     },
