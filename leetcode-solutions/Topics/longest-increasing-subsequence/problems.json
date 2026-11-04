@@ -5,8 +5,28 @@
     "name": "Longest Increasing Subsequence",
     "tagId": "122079"
   },
-  "updatedAt": "2026-11-04T16:10:40.245Z",
+  "updatedAt": "2026-11-04T16:12:02.110Z",
   "problems": [
+    {
+      "frontendId": "300",
+      "title": "Longest Increasing Subsequence",
+      "slug": "longest-increasing-subsequence",
+      "problemName": "0300-longest-increasing-subsequence",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/longest-increasing-subsequence/",
+      "folderPath": "leetcode-solutions/0300-longest-increasing-subsequence/",
+      "readmePath": "leetcode-solutions/0300-longest-increasing-subsequence/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0300-longest-increasing-subsequence.cpp",
+          "path": "leetcode-solutions/0300-longest-increasing-subsequence/0300-longest-increasing-subsequence.cpp",
+          "sha": "7e6e57cb9c469deb3a840f7904337502b3e7ae23",
+          "lastSyncedAt": "2026-11-04T16:12:02.110Z"
+        }
+      ]
+    },
     {
       "frontendId": "673",
       "title": "Number of Longest Increasing Subsequence",
