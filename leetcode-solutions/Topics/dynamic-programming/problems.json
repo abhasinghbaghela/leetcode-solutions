@@ -5,8 +5,28 @@
     "name": "Dynamic Programming",
     "tagId": "13"
   },
-  "updatedAt": "2026-11-04T16:06:00.690Z",
+  "updatedAt": "2026-11-04T16:09:41.442Z",
   "problems": [
+    {
+      "frontendId": "121",
+      "title": "Best Time to Buy and Sell Stock",
+      "slug": "best-time-to-buy-and-sell-stock",
+      "problemName": "0121-best-time-to-buy-and-sell-stock",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock/",
+      "folderPath": "leetcode-solutions/0121-best-time-to-buy-and-sell-stock/",
+      "readmePath": "leetcode-solutions/0121-best-time-to-buy-and-sell-stock/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0121-best-time-to-buy-and-sell-stock.cpp",
+          "path": "leetcode-solutions/0121-best-time-to-buy-and-sell-stock/0121-best-time-to-buy-and-sell-stock.cpp",
+          "sha": "bf27e2be5325fcb7fa9f15f53b696e6ada75495c",
+          "lastSyncedAt": "2026-11-04T16:09:41.442Z"
+        }
+      ]
+    },
     {
       "frontendId": "1976",
       "title": "Number of Ways to Arrive at Destination",
