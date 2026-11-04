@@ -5,7 +5,7 @@
     "name": "Sorting",
     "tagId": "61049"
   },
-  "updatedAt": "2026-11-04T16:10:24.789Z",
+  "updatedAt": "2026-11-04T16:11:03.577Z",
   "problems": [
     {
       "frontendId": "49",
@@ -44,6 +44,26 @@
           "path": "leetcode-solutions/0215-kth-largest-element-in-an-array/0215-kth-largest-element-in-an-array.cpp",
           "sha": "e43e56876bc1ce2abed724734ceabe4bd582993a",
           "lastSyncedAt": "2026-11-04T16:08:38.048Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "368",
+      "title": "Largest Divisible Subset",
+      "slug": "largest-divisible-subset",
+      "problemName": "0368-largest-divisible-subset",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/largest-divisible-subset/",
+      "folderPath": "leetcode-solutions/0368-largest-divisible-subset/",
+      "readmePath": "leetcode-solutions/0368-largest-divisible-subset/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0368-largest-divisible-subset.cpp",
+          "path": "leetcode-solutions/0368-largest-divisible-subset/0368-largest-divisible-subset.cpp",
+          "sha": "222e8bf49de68c9141a55cc3a7e0fef2aba823ce",
+          "lastSyncedAt": "2026-11-04T16:11:03.577Z"
         }
       ]
     },
