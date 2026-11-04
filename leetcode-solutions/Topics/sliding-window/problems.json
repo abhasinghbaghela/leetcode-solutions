@@ -5,8 +5,28 @@
     "name": "Sliding Window",
     "tagId": "55821"
   },
-  "updatedAt": "2026-11-04T16:09:06.056Z",
+  "updatedAt": "2026-11-04T16:10:00.284Z",
   "problems": [
+    {
+      "frontendId": "76",
+      "title": "Minimum Window Substring",
+      "slug": "minimum-window-substring",
+      "problemName": "0076-minimum-window-substring",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/minimum-window-substring/",
+      "folderPath": "leetcode-solutions/0076-minimum-window-substring/",
+      "readmePath": "leetcode-solutions/0076-minimum-window-substring/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0076-minimum-window-substring.cpp",
+          "path": "leetcode-solutions/0076-minimum-window-substring/0076-minimum-window-substring.cpp",
+          "sha": "929489e5dac4d951d6d1a33d3ea690b3acb7fb44",
+          "lastSyncedAt": "2026-11-04T16:10:00.284Z"
+        }
+      ]
+    },
     {
       "frontendId": "567",
       "title": "Permutation in String",
