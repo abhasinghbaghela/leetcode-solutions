@@ -5,7 +5,7 @@
     "name": "Dynamic Programming",
     "tagId": "13"
   },
-  "updatedAt": "2026-11-04T16:10:24.789Z",
+  "updatedAt": "2026-11-04T16:10:40.245Z",
   "problems": [
     {
       "frontendId": "121",
@@ -44,6 +44,26 @@
           "path": "leetcode-solutions/0312-burst-balloons/0312-burst-balloons.cpp",
           "sha": "29ec186e64937ddf818e7d1a4c6d1ae3d036583d",
           "lastSyncedAt": "2026-11-04T16:10:10.133Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "673",
+      "title": "Number of Longest Increasing Subsequence",
+      "slug": "number-of-longest-increasing-subsequence",
+      "problemName": "0673-number-of-longest-increasing-subsequence",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/number-of-longest-increasing-subsequence/",
+      "folderPath": "leetcode-solutions/0673-number-of-longest-increasing-subsequence/",
+      "readmePath": "leetcode-solutions/0673-number-of-longest-increasing-subsequence/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0673-number-of-longest-increasing-subsequence.cpp",
+          "path": "leetcode-solutions/0673-number-of-longest-increasing-subsequence/0673-number-of-longest-increasing-subsequence.cpp",
+          "sha": "ac397772793beab3b3c2895ec52cffae4575b1f3",
+          "lastSyncedAt": "2026-11-04T16:10:40.245Z"
         }
       ]
     },
