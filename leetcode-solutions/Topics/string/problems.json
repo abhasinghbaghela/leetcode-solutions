@@ -5,7 +5,7 @@
     "name": "String",
     "tagId": "10"
   },
-  "updatedAt": "2026-11-04T16:09:24.228Z",
+  "updatedAt": "2026-11-04T16:09:49.362Z",
   "problems": [
     {
       "frontendId": "49",
@@ -24,6 +24,26 @@
           "path": "leetcode-solutions/0049-group-anagrams/0049-group-anagrams.cpp",
           "sha": "feab8f11846a01103aa1045eca1fd63a94bc3907",
           "lastSyncedAt": "2026-11-04T16:09:24.228Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "412",
+      "title": "Fizz Buzz",
+      "slug": "fizz-buzz",
+      "problemName": "0412-fizz-buzz",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/fizz-buzz/",
+      "folderPath": "leetcode-solutions/0412-fizz-buzz/",
+      "readmePath": "leetcode-solutions/0412-fizz-buzz/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0412-fizz-buzz.cpp",
+          "path": "leetcode-solutions/0412-fizz-buzz/0412-fizz-buzz.cpp",
+          "sha": "c80de3e3fc6c10e278b3f736a2df195bf99f19b9",
+          "lastSyncedAt": "2026-11-04T16:09:49.362Z"
         }
       ]
     },
