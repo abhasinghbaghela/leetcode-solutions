@@ -5,8 +5,28 @@
     "name": "0-1 Knapsack",
     "tagId": "88229"
   },
-  "updatedAt": "2026-11-04T16:13:03.244Z",
+  "updatedAt": "2026-11-04T16:13:18.192Z",
   "problems": [
+    {
+      "frontendId": "416",
+      "title": "Partition Equal Subset Sum",
+      "slug": "partition-equal-subset-sum",
+      "problemName": "0416-partition-equal-subset-sum",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/partition-equal-subset-sum/",
+      "folderPath": "leetcode-solutions/0416-partition-equal-subset-sum/",
+      "readmePath": "leetcode-solutions/0416-partition-equal-subset-sum/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0416-partition-equal-subset-sum.cpp",
+          "path": "leetcode-solutions/0416-partition-equal-subset-sum/0416-partition-equal-subset-sum.cpp",
+          "sha": "03b30e169633363b4ba7fb0551ab327614c01d8f",
+          "lastSyncedAt": "2026-11-04T16:13:18.192Z"
+        }
+      ]
+    },
     {
       "frontendId": "494",
       "title": "Target Sum",
