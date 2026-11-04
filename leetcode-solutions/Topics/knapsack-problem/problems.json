@@ -5,7 +5,7 @@
     "name": "Knapsack Problem",
     "tagId": "74909"
   },
-  "updatedAt": "2026-11-04T16:13:03.244Z",
+  "updatedAt": "2026-11-04T16:13:18.192Z",
   "problems": [
     {
       "frontendId": "322",
@@ -24,6 +24,26 @@
           "path": "leetcode-solutions/0322-coin-change/0322-coin-change.cpp",
           "sha": "c12a9925f25c7f4cab1b31ddff2b56b55c41f61c",
           "lastSyncedAt": "2026-11-04T16:12:39.562Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "416",
+      "title": "Partition Equal Subset Sum",
+      "slug": "partition-equal-subset-sum",
+      "problemName": "0416-partition-equal-subset-sum",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/partition-equal-subset-sum/",
+      "folderPath": "leetcode-solutions/0416-partition-equal-subset-sum/",
+      "readmePath": "leetcode-solutions/0416-partition-equal-subset-sum/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0416-partition-equal-subset-sum.cpp",
+          "path": "leetcode-solutions/0416-partition-equal-subset-sum/0416-partition-equal-subset-sum.cpp",
+          "sha": "03b30e169633363b4ba7fb0551ab327614c01d8f",
+          "lastSyncedAt": "2026-11-04T16:13:18.192Z"
         }
       ]
     },
