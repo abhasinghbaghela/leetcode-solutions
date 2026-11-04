@@ -5,7 +5,7 @@
     "name": "Math",
     "tagId": "8"
   },
-  "updatedAt": "2026-11-04T16:07:42.828Z",
+  "updatedAt": "2026-11-04T16:09:34.536Z",
   "problems": [
     {
       "frontendId": "462",
@@ -24,6 +24,26 @@
           "path": "leetcode-solutions/0462-minimum-moves-to-equal-array-elements-ii/0462-minimum-moves-to-equal-array-elements-ii.cpp",
           "sha": "737d212f09556d0f01ac5843087363afb820dd61",
           "lastSyncedAt": "2026-11-04T16:06:24.383Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "775",
+      "title": "Global and Local Inversions",
+      "slug": "global-and-local-inversions",
+      "problemName": "0775-global-and-local-inversions",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/global-and-local-inversions/",
+      "folderPath": "leetcode-solutions/0775-global-and-local-inversions/",
+      "readmePath": "leetcode-solutions/0775-global-and-local-inversions/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0775-global-and-local-inversions.cpp",
+          "path": "leetcode-solutions/0775-global-and-local-inversions/0775-global-and-local-inversions.cpp",
+          "sha": "e61c41f988e8c2c2449f9d6fea99be33f8442b6b",
+          "lastSyncedAt": "2026-11-04T16:09:34.536Z"
         }
       ]
     },
