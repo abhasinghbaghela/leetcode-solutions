@@ -1,0 +1,31 @@
+{
+  "version": 1,
+  "topic": {
+    "slug": "tournament-sort",
+    "name": "Tournament Sort",
+    "tagId": "122016"
+  },
+  "updatedAt": "2026-11-04T16:07:51.923Z",
+  "problems": [
+    {
+      "frontendId": "23",
+      "title": "Merge k Sorted Lists",
+      "slug": "merge-k-sorted-lists",
+      "problemName": "0023-merge-k-sorted-lists",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/merge-k-sorted-lists/",
+      "folderPath": "leetcode-solutions/0023-merge-k-sorted-lists/",
+      "readmePath": "leetcode-solutions/0023-merge-k-sorted-lists/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0023-merge-k-sorted-lists.cpp",
+          "path": "leetcode-solutions/0023-merge-k-sorted-lists/0023-merge-k-sorted-lists.cpp",
+          "sha": "46398ef3089f84e9ab77eb43ca1b327a17d0a9e7",
+          "lastSyncedAt": "2026-11-04T16:07:51.923Z"
+        }
+      ]
+    }
+  ]
+}
