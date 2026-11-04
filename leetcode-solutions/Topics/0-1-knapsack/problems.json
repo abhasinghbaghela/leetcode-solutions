@@ -5,8 +5,28 @@
     "name": "0-1 Knapsack",
     "tagId": "88229"
   },
-  "updatedAt": "2026-11-04T16:12:17.496Z",
+  "updatedAt": "2026-11-04T16:13:03.244Z",
   "problems": [
+    {
+      "frontendId": "494",
+      "title": "Target Sum",
+      "slug": "target-sum",
+      "problemName": "0494-target-sum",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/target-sum/",
+      "folderPath": "leetcode-solutions/0494-target-sum/",
+      "readmePath": "leetcode-solutions/0494-target-sum/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0494-target-sum.cpp",
+          "path": "leetcode-solutions/0494-target-sum/0494-target-sum.cpp",
+          "sha": "f3cf5e32c4960610fe33730bad3bbbb1c8ce2d3e",
+          "lastSyncedAt": "2026-11-04T16:13:03.244Z"
+        }
+      ]
+    },
     {
       "frontendId": "1049",
       "title": "Last Stone Weight II",
