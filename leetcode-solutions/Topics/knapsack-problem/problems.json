@@ -1,0 +1,31 @@
+{
+  "version": 1,
+  "topic": {
+    "slug": "knapsack-problem",
+    "name": "Knapsack Problem",
+    "tagId": "74909"
+  },
+  "updatedAt": "2026-11-04T16:12:17.496Z",
+  "problems": [
+    {
+      "frontendId": "1049",
+      "title": "Last Stone Weight II",
+      "slug": "last-stone-weight-ii",
+      "problemName": "1049-last-stone-weight-ii",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/last-stone-weight-ii/",
+      "folderPath": "leetcode-solutions/1049-last-stone-weight-ii/",
+      "readmePath": "leetcode-solutions/1049-last-stone-weight-ii/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "1049-last-stone-weight-ii.cpp",
+          "path": "leetcode-solutions/1049-last-stone-weight-ii/1049-last-stone-weight-ii.cpp",
+          "sha": "19c21b82dacc682629e1e0d5987e44f09b8b822c",
+          "lastSyncedAt": "2026-11-04T16:12:17.496Z"
+        }
+      ]
+    }
+  ]
+}
