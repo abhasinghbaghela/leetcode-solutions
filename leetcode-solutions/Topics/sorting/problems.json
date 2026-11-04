@@ -5,8 +5,28 @@
     "name": "Sorting",
     "tagId": "61049"
   },
-  "updatedAt": "2026-11-04T16:06:24.383Z",
+  "updatedAt": "2026-11-04T16:08:38.048Z",
   "problems": [
+    {
+      "frontendId": "215",
+      "title": "Kth Largest Element in an Array",
+      "slug": "kth-largest-element-in-an-array",
+      "problemName": "0215-kth-largest-element-in-an-array",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/kth-largest-element-in-an-array/",
+      "folderPath": "leetcode-solutions/0215-kth-largest-element-in-an-array/",
+      "readmePath": "leetcode-solutions/0215-kth-largest-element-in-an-array/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0215-kth-largest-element-in-an-array.cpp",
+          "path": "leetcode-solutions/0215-kth-largest-element-in-an-array/0215-kth-largest-element-in-an-array.cpp",
+          "sha": "e43e56876bc1ce2abed724734ceabe4bd582993a",
+          "lastSyncedAt": "2026-11-04T16:08:38.048Z"
+        }
+      ]
+    },
     {
       "frontendId": "462",
       "title": "Minimum Moves to Equal Array Elements II",
