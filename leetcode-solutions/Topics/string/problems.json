@@ -5,8 +5,28 @@
     "name": "String",
     "tagId": "10"
   },
-  "updatedAt": "2026-11-04T16:09:06.056Z",
+  "updatedAt": "2026-11-04T16:09:24.228Z",
   "problems": [
+    {
+      "frontendId": "49",
+      "title": "Group Anagrams",
+      "slug": "group-anagrams",
+      "problemName": "0049-group-anagrams",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/group-anagrams/",
+      "folderPath": "leetcode-solutions/0049-group-anagrams/",
+      "readmePath": "leetcode-solutions/0049-group-anagrams/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0049-group-anagrams.cpp",
+          "path": "leetcode-solutions/0049-group-anagrams/0049-group-anagrams.cpp",
+          "sha": "feab8f11846a01103aa1045eca1fd63a94bc3907",
+          "lastSyncedAt": "2026-11-04T16:09:24.228Z"
+        }
+      ]
+    },
     {
       "frontendId": "567",
       "title": "Permutation in String",
