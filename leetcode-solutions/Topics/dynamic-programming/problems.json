@@ -5,7 +5,7 @@
     "name": "Dynamic Programming",
     "tagId": "13"
   },
-  "updatedAt": "2026-11-04T16:11:14.407Z",
+  "updatedAt": "2026-11-04T16:11:24.406Z",
   "problems": [
     {
       "frontendId": "121",
@@ -64,6 +64,26 @@
           "path": "leetcode-solutions/0368-largest-divisible-subset/0368-largest-divisible-subset.cpp",
           "sha": "222e8bf49de68c9141a55cc3a7e0fef2aba823ce",
           "lastSyncedAt": "2026-11-04T16:11:03.577Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "516",
+      "title": "Longest Palindromic Subsequence",
+      "slug": "longest-palindromic-subsequence",
+      "problemName": "0516-longest-palindromic-subsequence",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/longest-palindromic-subsequence/",
+      "folderPath": "leetcode-solutions/0516-longest-palindromic-subsequence/",
+      "readmePath": "leetcode-solutions/0516-longest-palindromic-subsequence/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0516-longest-palindromic-subsequence.cpp",
+          "path": "leetcode-solutions/0516-longest-palindromic-subsequence/0516-longest-palindromic-subsequence.cpp",
+          "sha": "c162c2b92b394d978e2eac5fadb600f61c65b1e9",
+          "lastSyncedAt": "2026-11-04T16:11:24.406Z"
         }
       ]
     },
