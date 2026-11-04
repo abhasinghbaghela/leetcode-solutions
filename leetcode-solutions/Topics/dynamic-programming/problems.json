@@ -1,0 +1,31 @@
+{
+  "version": 1,
+  "topic": {
+    "slug": "dynamic-programming",
+    "name": "Dynamic Programming",
+    "tagId": "13"
+  },
+  "updatedAt": "2026-11-04T16:06:00.690Z",
+  "problems": [
+    {
+      "frontendId": "1976",
+      "title": "Number of Ways to Arrive at Destination",
+      "slug": "number-of-ways-to-arrive-at-destination",
+      "problemName": "1976-number-of-ways-to-arrive-at-destination",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/number-of-ways-to-arrive-at-destination/",
+      "folderPath": "leetcode-solutions/1976-number-of-ways-to-arrive-at-destination/",
+      "readmePath": "leetcode-solutions/1976-number-of-ways-to-arrive-at-destination/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "1976-number-of-ways-to-arrive-at-destination.cpp",
+          "path": "leetcode-solutions/1976-number-of-ways-to-arrive-at-destination/1976-number-of-ways-to-arrive-at-destination.cpp",
+          "sha": "24d3382d877dfdd919e5784fd5ed859d548d6e22",
+          "lastSyncedAt": "2026-11-04T16:06:00.690Z"
+        }
+      ]
+    }
+  ]
+}
