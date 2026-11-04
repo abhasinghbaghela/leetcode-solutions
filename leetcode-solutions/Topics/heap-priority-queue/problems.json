@@ -5,7 +5,7 @@
     "name": "Heap (Priority Queue)",
     "tagId": "61050"
   },
-  "updatedAt": "2026-11-04T16:08:38.048Z",
+  "updatedAt": "2026-11-04T16:12:31.689Z",
   "problems": [
     {
       "frontendId": "23",
@@ -64,6 +64,26 @@
           "path": "leetcode-solutions/0703-kth-largest-element-in-a-stream/0703-kth-largest-element-in-a-stream.cpp",
           "sha": "3738230bd06d0b88ef4bc67dc9948fa39c54c387",
           "lastSyncedAt": "2026-11-04T16:08:14.975Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1046",
+      "title": "Last Stone Weight",
+      "slug": "last-stone-weight",
+      "problemName": "1046-last-stone-weight",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/last-stone-weight/",
+      "folderPath": "leetcode-solutions/1046-last-stone-weight/",
+      "readmePath": "leetcode-solutions/1046-last-stone-weight/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "1046-last-stone-weight.cpp",
+          "path": "leetcode-solutions/1046-last-stone-weight/1046-last-stone-weight.cpp",
+          "sha": "8647c94fdc5174a13cad23e1c21fcad8f57325c3",
+          "lastSyncedAt": "2026-11-04T16:12:31.689Z"
         }
       ]
     }
