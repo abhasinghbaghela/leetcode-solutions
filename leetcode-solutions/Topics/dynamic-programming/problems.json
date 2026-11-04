@@ -5,7 +5,7 @@
     "name": "Dynamic Programming",
     "tagId": "13"
   },
-  "updatedAt": "2026-11-04T16:11:51.899Z",
+  "updatedAt": "2026-11-04T16:12:02.110Z",
   "problems": [
     {
       "frontendId": "121",
@@ -44,6 +44,26 @@
           "path": "leetcode-solutions/0139-word-break/0139-word-break.cpp",
           "sha": "3caa8e2f543dfa8bdb2ad6896730ad633d673dd9",
           "lastSyncedAt": "2026-11-04T16:11:31.257Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "300",
+      "title": "Longest Increasing Subsequence",
+      "slug": "longest-increasing-subsequence",
+      "problemName": "0300-longest-increasing-subsequence",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/longest-increasing-subsequence/",
+      "folderPath": "leetcode-solutions/0300-longest-increasing-subsequence/",
+      "readmePath": "leetcode-solutions/0300-longest-increasing-subsequence/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0300-longest-increasing-subsequence.cpp",
+          "path": "leetcode-solutions/0300-longest-increasing-subsequence/0300-longest-increasing-subsequence.cpp",
+          "sha": "7e6e57cb9c469deb3a840f7904337502b3e7ae23",
+          "lastSyncedAt": "2026-11-04T16:12:02.110Z"
         }
       ]
     },
