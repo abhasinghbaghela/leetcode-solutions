@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-11-04T16:12:17.496Z",
+  "updatedAt": "2026-11-04T16:12:31.689Z",
   "problems": [
     {
       "frontendId": "49",
@@ -204,6 +204,26 @@
           "path": "leetcode-solutions/0775-global-and-local-inversions/0775-global-and-local-inversions.cpp",
           "sha": "e61c41f988e8c2c2449f9d6fea99be33f8442b6b",
           "lastSyncedAt": "2026-11-04T16:09:34.536Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1046",
+      "title": "Last Stone Weight",
+      "slug": "last-stone-weight",
+      "problemName": "1046-last-stone-weight",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/last-stone-weight/",
+      "folderPath": "leetcode-solutions/1046-last-stone-weight/",
+      "readmePath": "leetcode-solutions/1046-last-stone-weight/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "1046-last-stone-weight.cpp",
+          "path": "leetcode-solutions/1046-last-stone-weight/1046-last-stone-weight.cpp",
+          "sha": "8647c94fdc5174a13cad23e1c21fcad8f57325c3",
+          "lastSyncedAt": "2026-11-04T16:12:31.689Z"
         }
       ]
     },
