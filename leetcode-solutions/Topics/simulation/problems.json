@@ -1,0 +1,31 @@
+{
+  "version": 1,
+  "topic": {
+    "slug": "simulation",
+    "name": "Simulation",
+    "tagId": "61055"
+  },
+  "updatedAt": "2026-11-04T16:09:49.362Z",
+  "problems": [
+    {
+      "frontendId": "412",
+      "title": "Fizz Buzz",
+      "slug": "fizz-buzz",
+      "problemName": "0412-fizz-buzz",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/fizz-buzz/",
+      "folderPath": "leetcode-solutions/0412-fizz-buzz/",
+      "readmePath": "leetcode-solutions/0412-fizz-buzz/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0412-fizz-buzz.cpp",
+          "path": "leetcode-solutions/0412-fizz-buzz/0412-fizz-buzz.cpp",
+          "sha": "c80de3e3fc6c10e278b3f736a2df195bf99f19b9",
+          "lastSyncedAt": "2026-11-04T16:09:49.362Z"
+        }
+      ]
+    }
+  ]
+}
