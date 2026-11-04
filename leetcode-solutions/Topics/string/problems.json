@@ -5,7 +5,7 @@
     "name": "String",
     "tagId": "10"
   },
-  "updatedAt": "2026-11-04T16:10:58.167Z",
+  "updatedAt": "2026-11-04T16:11:14.407Z",
   "problems": [
     {
       "frontendId": "49",
@@ -84,6 +84,26 @@
           "path": "leetcode-solutions/0567-permutation-in-string/0567-permutation-in-string.cpp",
           "sha": "5c012d44539e4fe08c195d56936abd084bb8147b",
           "lastSyncedAt": "2026-11-04T16:09:06.056Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "583",
+      "title": "Delete Operation for Two Strings",
+      "slug": "delete-operation-for-two-strings",
+      "problemName": "0583-delete-operation-for-two-strings",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/delete-operation-for-two-strings/",
+      "folderPath": "leetcode-solutions/0583-delete-operation-for-two-strings/",
+      "readmePath": "leetcode-solutions/0583-delete-operation-for-two-strings/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0583-delete-operation-for-two-strings.cpp",
+          "path": "leetcode-solutions/0583-delete-operation-for-two-strings/0583-delete-operation-for-two-strings.cpp",
+          "sha": "0f71b0375bbae2eeb2b8a57cd9b055f5f180b800",
+          "lastSyncedAt": "2026-11-04T16:11:14.407Z"
         }
       ]
     },
