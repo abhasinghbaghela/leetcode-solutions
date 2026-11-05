@@ -28,4 +28,20 @@ Solved problems in C++.
 |  |
 | ------- |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/abhasinghbaghela/leetcode-solutions/tree/master/1976-number-of-ways-to-arrive-at-destination) |
+## Array
+|  |
+| ------- |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/abhasinghbaghela/leetcode-solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
+## Two Pointers
+|  |
+| ------- |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/abhasinghbaghela/leetcode-solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
+## Binary Search
+|  |
+| ------- |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/abhasinghbaghela/leetcode-solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
+## Sorting
+|  |
+| ------- |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/abhasinghbaghela/leetcode-solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 <!---LeetCode Topics End-->
