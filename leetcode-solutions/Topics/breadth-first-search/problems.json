@@ -5,7 +5,7 @@
     "name": "Breadth-First Search",
     "tagId": "22"
   },
-  "updatedAt": "2026-11-04T16:12:39.562Z",
+  "updatedAt": "2026-11-08T04:29:47.809Z",
   "problems": [
     {
       "frontendId": "322",
@@ -24,6 +24,26 @@
           "path": "leetcode-solutions/0322-coin-change/0322-coin-change.cpp",
           "sha": "c12a9925f25c7f4cab1b31ddff2b56b55c41f61c",
           "lastSyncedAt": "2026-11-04T16:12:39.562Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1267",
+      "title": "Count Servers that Communicate",
+      "slug": "count-servers-that-communicate",
+      "problemName": "1267-count-servers-that-communicate",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/count-servers-that-communicate/",
+      "folderPath": "leetcode-solutions/1267-count-servers-that-communicate/",
+      "readmePath": "leetcode-solutions/1267-count-servers-that-communicate/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "1267-count-servers-that-communicate.cpp",
+          "path": "leetcode-solutions/1267-count-servers-that-communicate/1267-count-servers-that-communicate.cpp",
+          "sha": "ed839a4858f6b23268d6587d1e6be2b9fb70ed45",
+          "lastSyncedAt": "2026-11-08T04:29:47.809Z"
         }
       ]
     },
