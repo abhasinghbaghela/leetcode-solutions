@@ -31,6 +31,7 @@ Solved problems in C++.
 ## Array
 |  |
 | ------- |
+| [1267-count-servers-that-communicate](https://github.com/abhasinghbaghela/leetcode-solutions/tree/master/1267-count-servers-that-communicate) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/abhasinghbaghela/leetcode-solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 ## Two Pointers
 |  |
@@ -44,4 +45,24 @@ Solved problems in C++.
 |  |
 | ------- |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/abhasinghbaghela/leetcode-solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
+## Depth-First Search
+|  |
+| ------- |
+| [1267-count-servers-that-communicate](https://github.com/abhasinghbaghela/leetcode-solutions/tree/master/1267-count-servers-that-communicate) |
+## Breadth-First Search
+|  |
+| ------- |
+| [1267-count-servers-that-communicate](https://github.com/abhasinghbaghela/leetcode-solutions/tree/master/1267-count-servers-that-communicate) |
+## Union-Find
+|  |
+| ------- |
+| [1267-count-servers-that-communicate](https://github.com/abhasinghbaghela/leetcode-solutions/tree/master/1267-count-servers-that-communicate) |
+## Matrix
+|  |
+| ------- |
+| [1267-count-servers-that-communicate](https://github.com/abhasinghbaghela/leetcode-solutions/tree/master/1267-count-servers-that-communicate) |
+## Counting
+|  |
+| ------- |
+| [1267-count-servers-that-communicate](https://github.com/abhasinghbaghela/leetcode-solutions/tree/master/1267-count-servers-that-communicate) |
 <!---LeetCode Topics End-->
