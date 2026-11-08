@@ -5,8 +5,28 @@
     "name": "Depth-First Search",
     "tagId": "21"
   },
-  "updatedAt": "2026-11-04T16:06:58.677Z",
+  "updatedAt": "2026-11-08T04:29:47.809Z",
   "problems": [
+    {
+      "frontendId": "1267",
+      "title": "Count Servers that Communicate",
+      "slug": "count-servers-that-communicate",
+      "problemName": "1267-count-servers-that-communicate",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/count-servers-that-communicate/",
+      "folderPath": "leetcode-solutions/1267-count-servers-that-communicate/",
+      "readmePath": "leetcode-solutions/1267-count-servers-that-communicate/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "1267-count-servers-that-communicate.cpp",
+          "path": "leetcode-solutions/1267-count-servers-that-communicate/1267-count-servers-that-communicate.cpp",
+          "sha": "ed839a4858f6b23268d6587d1e6be2b9fb70ed45",
+          "lastSyncedAt": "2026-11-08T04:29:47.809Z"
+        }
+      ]
+    },
     {
       "frontendId": "3619",
       "title": "Count Islands With Total Value Divisible by K",
