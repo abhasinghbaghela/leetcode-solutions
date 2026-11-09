@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-11-08T04:29:47.809Z",
+  "updatedAt": "2026-11-09T12:02:42.724Z",
   "problems": [
     {
       "frontendId": "49",
@@ -483,7 +483,7 @@
           "filename": "3736-minimum-moves-to-equal-array-elements-iii.cpp",
           "path": "leetcode-solutions/3736-minimum-moves-to-equal-array-elements-iii/3736-minimum-moves-to-equal-array-elements-iii.cpp",
           "sha": "057f67e5dfeb38b32de030f6aee286ab4e5dcea7",
-          "lastSyncedAt": "2026-11-04T16:06:38.838Z"
+          "lastSyncedAt": "2026-11-09T12:02:42.724Z"
         }
       ]
     }
