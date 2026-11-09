@@ -33,6 +33,7 @@ Solved problems in C++.
 | ------- |
 | [1267-count-servers-that-communicate](https://github.com/abhasinghbaghela/leetcode-solutions/tree/master/1267-count-servers-that-communicate) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/abhasinghbaghela/leetcode-solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/abhasinghbaghela/leetcode-solutions/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -65,4 +66,8 @@ Solved problems in C++.
 |  |
 | ------- |
 | [1267-count-servers-that-communicate](https://github.com/abhasinghbaghela/leetcode-solutions/tree/master/1267-count-servers-that-communicate) |
+## Math
+|  |
+| ------- |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/abhasinghbaghela/leetcode-solutions/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 <!---LeetCode Topics End-->
